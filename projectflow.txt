@@ -5,6 +5,11 @@ Building pipeline:
 3 - add data, model, reports directories to gitignore file 
 4 - now git add, commit, push
 
+setting up DVC pipeline(without params)
+
+5 - create DVC yaml file and add stages to it
+6 - DVC init then do DVC repo to test the DVC pipeline automation
+7 - now git add,commit and push
 
 
 
